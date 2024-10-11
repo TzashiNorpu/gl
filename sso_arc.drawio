@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="mxvi7i06FaTyoHRG-8UF-47" value="" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="200" y="200" width="840" height="400" as="geometry" />
+          <mxGeometry x="200" y="200" width="620" height="400" as="geometry" />
         </mxCell>
         <mxCell id="mxvi7i06FaTyoHRG-8UF-1" value="开发桌面" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.client_application" vertex="1" parent="1">
           <mxGeometry x="100" y="320" width="50" height="32" as="geometry" />
@@ -75,41 +75,17 @@
         <mxCell id="mxvi7i06FaTyoHRG-8UF-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.447;entryY=0.047;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mxvi7i06FaTyoHRG-8UF-18" target="mxvi7i06FaTyoHRG-8UF-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mxvi7i06FaTyoHRG-8UF-26" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="910" y="291" width="92" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="mxvi7i06FaTyoHRG-8UF-27" value="..." style="whiteSpace=wrap;html=1;" vertex="1" parent="mxvi7i06FaTyoHRG-8UF-26">
-          <mxGeometry width="92" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="mxvi7i06FaTyoHRG-8UF-28" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=1;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.web_server" vertex="1" parent="mxvi7i06FaTyoHRG-8UF-26">
-          <mxGeometry x="27" y="130" width="38" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="mxvi7i06FaTyoHRG-8UF-29" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=1;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.web_server" vertex="1" parent="mxvi7i06FaTyoHRG-8UF-26">
-          <mxGeometry x="22" y="10" width="38" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="mxvi7i06FaTyoHRG-8UF-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.476;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mxvi7i06FaTyoHRG-8UF-1" target="mxvi7i06FaTyoHRG-8UF-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mxvi7i06FaTyoHRG-8UF-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.471;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mxvi7i06FaTyoHRG-8UF-2" target="mxvi7i06FaTyoHRG-8UF-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mxvi7i06FaTyoHRG-8UF-40" value="总账、财管、税务前端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="820" y="261" width="140" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="mxvi7i06FaTyoHRG-8UF-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mxvi7i06FaTyoHRG-8UF-12" target="mxvi7i06FaTyoHRG-8UF-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mxvi7i06FaTyoHRG-8UF-48" value="私有云" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="568" y="160" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mxvi7i06FaTyoHRG-8UF-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mxvi7i06FaTyoHRG-8UF-49" target="mxvi7i06FaTyoHRG-8UF-27">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mxvi7i06FaTyoHRG-8UF-49" value="SLB" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cloud_Service.svg;" vertex="1" parent="1">
-          <mxGeometry x="820" y="370" width="50" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="mxvi7i06FaTyoHRG-8UF-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mxvi7i06FaTyoHRG-8UF-18" target="mxvi7i06FaTyoHRG-8UF-49">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
