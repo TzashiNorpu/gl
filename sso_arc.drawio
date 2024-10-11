@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="mxvi7i06FaTyoHRG-8UF-47" value="" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="200" width="790" height="400" as="geometry" />
+        </mxCell>
         <mxCell id="mxvi7i06FaTyoHRG-8UF-1" value="开发桌面" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.client_application" vertex="1" parent="1">
           <mxGeometry x="100" y="320" width="50" height="32" as="geometry" />
         </mxCell>
@@ -98,6 +101,9 @@
         </mxCell>
         <mxCell id="mxvi7i06FaTyoHRG-8UF-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mxvi7i06FaTyoHRG-8UF-18" target="mxvi7i06FaTyoHRG-8UF-27">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mxvi7i06FaTyoHRG-8UF-48" value="私有云" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="568" y="160" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
