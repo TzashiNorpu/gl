@@ -489,7 +489,7 @@
           <mxGeometry x="600" y="570" width="38" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ssyfc34TBSF50xVvhf94-9" value="redis" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="640" width="50" height="42" as="geometry" />
+          <mxGeometry x="840" y="578" width="50" height="42" as="geometry" />
         </mxCell>
         <mxCell id="ssyfc34TBSF50xVvhf94-10" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="348" y="280" width="334" height="200" as="geometry" />
@@ -519,7 +519,7 @@
           <mxGeometry x="364" y="250" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ssyfc34TBSF50xVvhf94-20" value="oss" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/AzureFXTEdgeFiler.svg;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="504" width="50" height="50" as="geometry" />
+          <mxGeometry x="1060" y="570" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ssyfc34TBSF50xVvhf94-27" value="私有云" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="460" y="160" width="60" height="30" as="geometry" />
