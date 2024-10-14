@@ -458,11 +458,72 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="Xbdx_fZFLR6yYkqCrFbr" name="gl-arc">
-    <mxGraphModel dx="1213" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="Xbdx_fZFLR6yYkqCrFbr" name="gl-app-arc">
+    <mxGraphModel dx="1173" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ssyfc34TBSF50xVvhf94-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ssyfc34TBSF50xVvhf94-3" target="ssyfc34TBSF50xVvhf94-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ssyfc34TBSF50xVvhf94-31" value="http" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ssyfc34TBSF50xVvhf94-30">
+          <mxGeometry x="0.0519" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ssyfc34TBSF50xVvhf94-3" value="办公网" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.client_application" vertex="1" parent="1">
+          <mxGeometry x="80" y="364" width="50" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="ssyfc34TBSF50xVvhf94-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ssyfc34TBSF50xVvhf94-5" target="ssyfc34TBSF50xVvhf94-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ssyfc34TBSF50xVvhf94-33" value="http" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ssyfc34TBSF50xVvhf94-32">
+          <mxGeometry x="0.0438" y="4" relative="1" as="geometry">
+            <mxPoint x="-6" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ssyfc34TBSF50xVvhf94-5" value="SLB" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cloud_Service.svg;" vertex="1" parent="1">
+          <mxGeometry x="220" y="359" width="50" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="ssyfc34TBSF50xVvhf94-8" value="OB" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/SQL_Database_generic.svg;" vertex="1" parent="1">
+          <mxGeometry x="600" y="570" width="38" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ssyfc34TBSF50xVvhf94-9" value="redis" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="640" width="50" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="ssyfc34TBSF50xVvhf94-10" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="348" y="280" width="334" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ssyfc34TBSF50xVvhf94-29" value="..." style="whiteSpace=wrap;html=1;" vertex="1" parent="ssyfc34TBSF50xVvhf94-10">
+          <mxGeometry x="238" width="70" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ssyfc34TBSF50xVvhf94-11" value="..." style="whiteSpace=wrap;html=1;" vertex="1" parent="ssyfc34TBSF50xVvhf94-10">
+          <mxGeometry x="10" width="70" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ssyfc34TBSF50xVvhf94-12" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=1;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.web_server" vertex="1" parent="ssyfc34TBSF50xVvhf94-10">
+          <mxGeometry x="27" y="130" width="38" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ssyfc34TBSF50xVvhf94-13" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=1;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.web_server" vertex="1" parent="ssyfc34TBSF50xVvhf94-10">
+          <mxGeometry x="22" y="10" width="38" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ssyfc34TBSF50xVvhf94-18" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.database_server" vertex="1" parent="ssyfc34TBSF50xVvhf94-10">
+          <mxGeometry x="251" y="130" width="38" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ssyfc34TBSF50xVvhf94-17" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.database_server" vertex="1" parent="ssyfc34TBSF50xVvhf94-10">
+          <mxGeometry x="250" y="10" width="38" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ssyfc34TBSF50xVvhf94-7" value="SLB" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cloud_Service.svg;" vertex="1" parent="ssyfc34TBSF50xVvhf94-10">
+          <mxGeometry x="142" y="79" width="50" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="ssyfc34TBSF50xVvhf94-14" value="GL前端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="364" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ssyfc34TBSF50xVvhf94-20" value="oss" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/AzureFXTEdgeFiler.svg;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="504" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ssyfc34TBSF50xVvhf94-27" value="私有云" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
