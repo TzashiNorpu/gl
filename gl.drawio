@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.17" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.17" pages="4">
   <diagram name="sso-arc" id="fXnYluxO89tF65Rm-cYq">
     <mxGraphModel dx="1213" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -625,6 +625,194 @@
         </mxCell>
         <mxCell id="jorn0M6zc-gEEaef_MqQ-36" value="ADB" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/General_Storage.svg;" vertex="1" parent="1">
           <mxGeometry x="715" y="1100" width="50" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="jTT-0BNJmwjLv3c2aglS" name="Page-4">
+    <mxGraphModel dx="2526" dy="1097" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GojUxmIwc-GCiDShK1vC-1" value="核心系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-2" value="资金系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-3" value="财管系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-4" value="票据系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="500" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-5" value="网贷" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-6" value="智慧信贷" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="620" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-7" value="信贷" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-8" value="资管" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="740" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-9" value="I9" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-10" value="银联前置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-11" value="国内证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-12" value="跨境通" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="500" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-13" value="全税" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-14" value="国结" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="620" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-15" value="老中" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-16" value="账套管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="210" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-17" value="税金处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="280" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-18" value="合并报表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="350" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-19" value="科目管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="210" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-20" value="会计计量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="280" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-21" value="日终处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="350" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-22" value="币种管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="755" y="210" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-23" value="会计引擎" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="755" y="280" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-26" value="年终结算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="755" y="350" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-27" value="会计核算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="210" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-28" value="审计调整" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="280" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-29" value="外币折算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="350" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-30" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="500" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-31" value="渠道管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="570" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-32" value="数据字典" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="640" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-33" value="角色管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="500" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-34" value="组织管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="570" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-35" value="值集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="640" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-36" value="机构管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="755" y="500" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-37" value="应用管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="755" y="570" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-38" value="表管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="755" y="640" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-39" value="权限管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="500" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-40" value="功能管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="570" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-41" value="操作日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="640" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-42" value="OB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="800" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-43" value="权限" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="870" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-44" value="Redis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="800" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-45" value="工作流" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="870" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-46" value="安全" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="755" y="800" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-47" value="通信" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="755" y="870" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-48" value="服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="800" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-49" value="日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="870" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-50" value="全税" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="430" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-51" value="数据资产平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="490" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-52" value="老中" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="550" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GojUxmIwc-GCiDShK1vC-53" target="GojUxmIwc-GCiDShK1vC-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-53" value="PTE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1200" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-54" value="VUE+ElementUI" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="502.5" y="1190" width="187.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-56" value="Spring Boot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1320" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-57" value="JWT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1390" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-58" value="Easy Excel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="1390" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-59" value="Mybatis-plus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1460" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-60" value="Activiti" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="1460" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-61" value="Log4j2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1540" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GojUxmIwc-GCiDShK1vC-62" value="Druid" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1540" width="95" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
