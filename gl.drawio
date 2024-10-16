@@ -459,7 +459,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Xbdx_fZFLR6yYkqCrFbr" name="gl-app-arc">
-    <mxGraphModel dx="2083" dy="3020" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5015" dy="4940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1097,9 +1097,6 @@
         </mxCell>
         <mxCell id="A-ejpTh2P-V6kHoC29gW-229" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;文件卸载、数据加工、入账【更新余额】、日结&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="3533.5" y="1829.84" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="A-ejpTh2P-V6kHoC29gW-230" value="oss" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/AzureFXTEdgeFiler.svg;" vertex="1" parent="1">
-          <mxGeometry x="1056" y="1140" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="A-ejpTh2P-V6kHoC29gW-231" value="oss" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/AzureFXTEdgeFiler.svg;" vertex="1" parent="1">
           <mxGeometry x="3548.5" y="2079.84" width="50" height="50" as="geometry" />
