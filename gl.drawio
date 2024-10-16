@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.17" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.17" pages="5">
   <diagram name="sso-arc" id="fXnYluxO89tF65Rm-cYq">
     <mxGraphModel dx="1213" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -459,7 +459,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Xbdx_fZFLR6yYkqCrFbr" name="gl-app-arc">
-    <mxGraphModel dx="1805" dy="2282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2133" dy="2496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -484,9 +484,6 @@
         </mxCell>
         <mxCell id="ssyfc34TBSF50xVvhf94-5" value="SLB" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cloud_Service.svg;" parent="1" vertex="1">
           <mxGeometry x="220" y="359" width="50" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="ssyfc34TBSF50xVvhf94-8" value="OB" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/SQL_Database_generic.svg;" parent="1" vertex="1">
-          <mxGeometry x="606.5" y="1100" width="38" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ssyfc34TBSF50xVvhf94-9" value="redis" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" parent="1" vertex="1">
           <mxGeometry x="900" y="1108" width="50" height="42" as="geometry" />
@@ -715,9 +712,6 @@
         </mxCell>
         <mxCell id="jorn0M6zc-gEEaef_MqQ-33" value="&lt;span style=&quot;background-color: rgb(255, 247, 138);&quot;&gt;值集服务&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="694.5" y="-150" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jorn0M6zc-gEEaef_MqQ-36" value="ADB" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/General_Storage.svg;" parent="1" vertex="1">
-          <mxGeometry x="530" y="1200" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ANCskS9WZcefAghS7Vtt-1" value="SLB" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cloud_Service.svg;" vertex="1" parent="1">
           <mxGeometry x="594.5" y="-42" width="50" height="42" as="geometry" />
@@ -1270,6 +1264,14 @@
         <mxCell id="GojUxmIwc-GCiDShK1vC-62" value="Druid" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="1540" width="95" height="40" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="jbF4rUAOC0ZusYCiyRLL" name="Page-5">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
