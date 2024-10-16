@@ -1268,7 +1268,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jbF4rUAOC0ZusYCiyRLL" name="Page-5">
-    <mxGraphModel dx="2992" dy="4172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-1154" dy="1457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1781,6 +1781,9 @@
         <mxCell id="MKjIHISGsI_cVne5pDo5-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=0;" edge="1" parent="1" source="MKjIHISGsI_cVne5pDo5-30" target="MKjIHISGsI_cVne5pDo5-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="LXTOrsryX0x2cnly8VTN-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=0;" edge="1" parent="1" source="MKjIHISGsI_cVne5pDo5-30" target="LXTOrsryX0x2cnly8VTN-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MKjIHISGsI_cVne5pDo5-30" value="..." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2271" y="2010" width="70" height="200" as="geometry" />
         </mxCell>
@@ -1802,7 +1805,7 @@
           <mxGeometry x="1880" y="2015" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MKjIHISGsI_cVne5pDo5-36" value="redis" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
-          <mxGeometry x="2430" y="2090" width="59.53" height="50" as="geometry" />
+          <mxGeometry x="2425.24" y="2040" width="59.53" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MKjIHISGsI_cVne5pDo5-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.04;entryY=0.402;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MKjIHISGsI_cVne5pDo5-30" target="MKjIHISGsI_cVne5pDo5-36">
           <mxGeometry relative="1" as="geometry" />
@@ -1923,7 +1926,7 @@
         <mxCell id="MKjIHISGsI_cVne5pDo5-70" value="&lt;span style=&quot;font-size: 11px; text-wrap: nowrap;&quot;&gt;http&lt;/span&gt;&lt;div style=&quot;text-align: center; font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: rgb(251, 251, 251); font-size: 11px;&quot;&gt;业务查询：交易、会计流水、登记簿&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=0;" vertex="1" parent="1">
           <mxGeometry x="3600" y="1990" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MKjIHISGsI_cVne5pDo5-71" value="调度" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/SQL_Database_generic.svg;" vertex="1" parent="1">
+        <mxCell id="MKjIHISGsI_cVne5pDo5-71" value="业务" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/SQL_Database_generic.svg;" vertex="1" parent="1">
           <mxGeometry x="3867" y="2290" width="38" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MKjIHISGsI_cVne5pDo5-72" value="会计引擎" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
@@ -2146,6 +2149,12 @@
         </mxCell>
         <mxCell id="MKjIHISGsI_cVne5pDo5-141" value="作业调度服务" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="4740" y="1470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LXTOrsryX0x2cnly8VTN-1" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;文件卸载、数据加工、入账【更新余额】、日结&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3970" y="1990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LXTOrsryX0x2cnly8VTN-2" value="oss" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/AzureFXTEdgeFiler.svg;" vertex="1" parent="1">
+          <mxGeometry x="2425.24" y="2140" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
