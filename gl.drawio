@@ -951,6 +951,21 @@
         <mxCell id="ANCskS9WZcefAghS7Vtt-97" value="redis" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
           <mxGeometry x="745" y="1550" width="50" height="42" as="geometry" />
         </mxCell>
+        <mxCell id="ANCskS9WZcefAghS7Vtt-101" value="..." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1266.5" y="-120" width="70" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ANCskS9WZcefAghS7Vtt-102" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.database_server" vertex="1" parent="1">
+          <mxGeometry x="1279.5" y="10" width="38" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ANCskS9WZcefAghS7Vtt-103" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.database_server" vertex="1" parent="1">
+          <mxGeometry x="1278.5" y="-110" width="38" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ANCskS9WZcefAghS7Vtt-104" value="报表查询服务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1250.5" y="-150" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ANCskS9WZcefAghS7Vtt-105" value="报表参数：模板、指标" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1066" y="-60" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
