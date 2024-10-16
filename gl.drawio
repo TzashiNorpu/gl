@@ -637,6 +637,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ANCskS9WZcefAghS7Vtt-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jorn0M6zc-gEEaef_MqQ-22" target="ANCskS9WZcefAghS7Vtt-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jorn0M6zc-gEEaef_MqQ-22" value="..." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1311.5" y="640" width="70" height="200" as="geometry" />
         </mxCell>
@@ -690,7 +693,7 @@
           <mxGeometry x="694.5" y="-150" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jorn0M6zc-gEEaef_MqQ-36" value="ADB" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/General_Storage.svg;" parent="1" vertex="1">
-          <mxGeometry x="715" y="1100" width="50" height="50" as="geometry" />
+          <mxGeometry x="530" y="1200" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ANCskS9WZcefAghS7Vtt-1" value="SLB" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cloud_Service.svg;" vertex="1" parent="1">
           <mxGeometry x="594.5" y="-42" width="50" height="42" as="geometry" />
@@ -803,6 +806,24 @@
         </mxCell>
         <mxCell id="ANCskS9WZcefAghS7Vtt-53" value="业务库" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/SQL_Database_generic.svg;" vertex="1" parent="1">
           <mxGeometry x="985" y="1150" width="38" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ANCskS9WZcefAghS7Vtt-57" value="计量库" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/SQL_Database_generic.svg;" vertex="1" parent="1">
+          <mxGeometry x="1336.5" y="1090" width="38" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ANCskS9WZcefAghS7Vtt-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jorn0M6zc-gEEaef_MqQ-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1310" y="730" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="765" y="1250" />
+              <mxPoint x="1220" y="1250" />
+              <mxPoint x="1220" y="729" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ANCskS9WZcefAghS7Vtt-60" value="http 计量参数" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ANCskS9WZcefAghS7Vtt-59">
+          <mxGeometry x="-0.0946" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
