@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" modified="2025-02-24T03:22:27.319Z" version="17.2.4" etag="lonB4nx7Xashcmt4rQ--" type="github" pages="7">
+<mxfile host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" modified="2025-02-24T03:32:19.290Z" version="17.2.4" etag="fzWjrgIFGex1j7YOHraA" type="github" pages="7">
   <diagram name="sso-arc" id="fXnYluxO89tF65Rm-cYq">
     <mxGraphModel dx="1414" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2606,7 +2606,7 @@
         <mxCell id="Fy20HTEXBb4KUKw9b5br-4" value="" style="whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" parent="8UHOsb5rdkdlPn7MHhuh-4" vertex="1">
           <mxGeometry width="160" height="157.5" as="geometry" />
         </mxCell>
-        <mxCell id="iJMzO8IZjCfvNGeTEoyc-1" value="参数库" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/SQL_Database_generic.svg;flipH=0;" parent="8UHOsb5rdkdlPn7MHhuh-4" vertex="1">
+        <mxCell id="iJMzO8IZjCfvNGeTEoyc-1" value="OB参数库" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/SQL_Database_generic.svg;flipH=0;" parent="8UHOsb5rdkdlPn7MHhuh-4" vertex="1">
           <mxGeometry x="50" y="33.25" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8UHOsb5rdkdlPn7MHhuh-5" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -2615,7 +2615,7 @@
         <mxCell id="Fy20HTEXBb4KUKw9b5br-5" value="" style="whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="8UHOsb5rdkdlPn7MHhuh-5" vertex="1">
           <mxGeometry width="160" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="TUbfbe5VYJhTqApFLo79-1" value="业务库" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/SQL_Database_generic.svg;flipH=0;" parent="8UHOsb5rdkdlPn7MHhuh-5" vertex="1">
+        <mxCell id="TUbfbe5VYJhTqApFLo79-1" value="OB业务库" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/SQL_Database_generic.svg;flipH=0;" parent="8UHOsb5rdkdlPn7MHhuh-5" vertex="1">
           <mxGeometry x="56" y="30" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8UHOsb5rdkdlPn7MHhuh-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;shape=flexArrow;" parent="1" source="Fy20HTEXBb4KUKw9b5br-3" target="8UHOsb5rdkdlPn7MHhuh-1" edge="1">
