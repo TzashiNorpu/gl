@@ -2976,7 +2976,7 @@
           <mxGeometry x="425" y="1540" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BF-QyLj5_fECOabBtOVI-37" value="网贷" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/data/data_services.svg;" vertex="1" parent="1">
-          <mxGeometry x="85" y="870" width="110" height="110" as="geometry" />
+          <mxGeometry x="85" y="860" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="BF-QyLj5_fECOabBtOVI-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BF-QyLj5_fECOabBtOVI-38" target="BF-QyLj5_fECOabBtOVI-39">
           <mxGeometry relative="1" as="geometry" />
@@ -3046,6 +3046,9 @@
           <mxGeometry x="-0.5005" y="3" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BF-QyLj5_fECOabBtOVI-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BF-QyLj5_fECOabBtOVI-37" target="BF-QyLj5_fECOabBtOVI-38">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
