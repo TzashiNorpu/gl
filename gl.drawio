@@ -2849,7 +2849,7 @@
           <mxGeometry x="-320" y="1185" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cYmm-m0VFp7m1TINjImP-45" value="核心没有网贷借据信息，取网贷在核心汇总记账的数据做科目级的价税分离" style="whiteSpace=wrap;html=1;verticalAlign=top;fontColor=#4277BB;labelBackgroundColor=default;shadow=0;dashed=0;spacingTop=3;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="1155" width="80" height="120" as="geometry" />
+          <mxGeometry x="-120" y="1162.5" width="80" height="105" as="geometry" />
         </mxCell>
         <mxCell id="cYmm-m0VFp7m1TINjImP-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cYmm-m0VFp7m1TINjImP-49" target="cYmm-m0VFp7m1TINjImP-50">
           <mxGeometry relative="1" as="geometry" />
