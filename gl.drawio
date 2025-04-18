@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.13" pages="8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.13" pages="9">
   <diagram name="sso-arc" id="fXnYluxO89tF65Rm-cYq">
     <mxGraphModel dx="1414" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2706,6 +2706,80 @@
             <mxPoint x="1380" y="940" as="sourcePoint" />
             <mxPoint x="1430" y="890" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="FZh451P4Dd43N6GldJaY" name="Page-9">
+    <mxGraphModel dx="2028" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hsB7S5Gprt8upeV15atY-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hsB7S5Gprt8upeV15atY-1" target="hsB7S5Gprt8upeV15atY-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hsB7S5Gprt8upeV15atY-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hsB7S5Gprt8upeV15atY-1" target="hsB7S5Gprt8upeV15atY-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hsB7S5Gprt8upeV15atY-1" value="核心" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/data/data_services.svg;" vertex="1" parent="1">
+          <mxGeometry x="110" y="400" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hsB7S5Gprt8upeV15atY-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hsB7S5Gprt8upeV15atY-2" target="hsB7S5Gprt8upeV15atY-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hsB7S5Gprt8upeV15atY-2" value="信贷" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/data/data_services.svg;" vertex="1" parent="1">
+          <mxGeometry x="110" y="510" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hsB7S5Gprt8upeV15atY-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hsB7S5Gprt8upeV15atY-3" target="hsB7S5Gprt8upeV15atY-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hsB7S5Gprt8upeV15atY-3" value="票据" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/data/data_services.svg;" vertex="1" parent="1">
+          <mxGeometry x="110" y="630" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hsB7S5Gprt8upeV15atY-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hsB7S5Gprt8upeV15atY-4" target="hsB7S5Gprt8upeV15atY-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hsB7S5Gprt8upeV15atY-4" value="资金" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/data/data_services.svg;" vertex="1" parent="1">
+          <mxGeometry x="110" y="740" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hsB7S5Gprt8upeV15atY-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hsB7S5Gprt8upeV15atY-5" target="hsB7S5Gprt8upeV15atY-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hsB7S5Gprt8upeV15atY-5" value="自营贷款借据核算明细流水" style="whiteSpace=wrap;html=1;verticalAlign=top;fontColor=#4277BB;labelBackgroundColor=default;shadow=0;dashed=0;spacingTop=3;" vertex="1" parent="1">
+          <mxGeometry x="220" y="340" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hsB7S5Gprt8upeV15atY-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hsB7S5Gprt8upeV15atY-8" target="hsB7S5Gprt8upeV15atY-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hsB7S5Gprt8upeV15atY-8" value="自营贷款借据用户信息：额度、农户、资产规模..." style="whiteSpace=wrap;html=1;verticalAlign=top;fontColor=#4277BB;labelBackgroundColor=default;shadow=0;dashed=0;spacingTop=3;" vertex="1" parent="1">
+          <mxGeometry x="220" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hsB7S5Gprt8upeV15atY-10" value="自营贷款减免税判断" style="whiteSpace=wrap;html=1;verticalAlign=top;fontColor=#4277BB;labelBackgroundColor=default;shadow=0;dashed=0;spacingTop=3;" vertex="1" parent="1">
+          <mxGeometry x="420" y="525" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hsB7S5Gprt8upeV15atY-13" value="网贷科目汇总价税分离" style="whiteSpace=wrap;html=1;verticalAlign=top;fontColor=#4277BB;labelBackgroundColor=default;shadow=0;dashed=0;spacingTop=3;" vertex="1" parent="1">
+          <mxGeometry x="220" y="415" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hsB7S5Gprt8upeV15atY-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hsB7S5Gprt8upeV15atY-15" target="hsB7S5Gprt8upeV15atY-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hsB7S5Gprt8upeV15atY-15" value="票据业务核算流水" style="whiteSpace=wrap;html=1;verticalAlign=top;fontColor=#4277BB;labelBackgroundColor=default;shadow=0;dashed=0;spacingTop=3;" vertex="1" parent="1">
+          <mxGeometry x="220" y="645" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hsB7S5Gprt8upeV15atY-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hsB7S5Gprt8upeV15atY-17" target="hsB7S5Gprt8upeV15atY-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hsB7S5Gprt8upeV15atY-17" value="资金业务核算流水" style="whiteSpace=wrap;html=1;verticalAlign=top;fontColor=#4277BB;labelBackgroundColor=default;shadow=0;dashed=0;spacingTop=3;" vertex="1" parent="1">
+          <mxGeometry x="220" y="755" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hsB7S5Gprt8upeV15atY-19" value="计税分离&lt;div&gt;开票&lt;/div&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;fontColor=#4277BB;labelBackgroundColor=default;shadow=0;dashed=0;spacingTop=3;" vertex="1" parent="1">
+          <mxGeometry x="420" y="635" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hsB7S5Gprt8upeV15atY-21" value="价税分离&lt;div&gt;开票&lt;/div&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;fontColor=#4277BB;labelBackgroundColor=default;shadow=0;dashed=0;spacingTop=3;" vertex="1" parent="1">
+          <mxGeometry x="420" y="745" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hsB7S5Gprt8upeV15atY-23" value="价税分离&lt;div&gt;开票&lt;/div&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;fontColor=#4277BB;labelBackgroundColor=default;shadow=0;dashed=0;spacingTop=3;" vertex="1" parent="1">
+          <mxGeometry x="570" y="332.5" width="120" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
