@@ -2683,7 +2683,7 @@
         <mxCell id="1VQlydlecq2Efi6xHo1d-2" value="老中手工Excel" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/users/user.svg;" vertex="1" parent="1">
           <mxGeometry x="890" y="510" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1VQlydlecq2Efi6xHo1d-3" value="基于发生额并账和累计余额&lt;div&gt;基于余额进行重估以及各类报表出具&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="1VQlydlecq2Efi6xHo1d-3" value="基于发生额并账和累计余额&lt;div&gt;基于余额进行重估&lt;/div&gt;&lt;div&gt;基于发生额和余额进行各类报表出具&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1060" y="730" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="1VQlydlecq2Efi6xHo1d-8" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.995;entryY=0.9;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1VQlydlecq2Efi6xHo1d-2" target="8y2ICCHRLszQ4KkZ3977-18">
