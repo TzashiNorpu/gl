@@ -2757,7 +2757,7 @@
         <mxCell id="hsB7S5Gprt8upeV15atY-10" value="自营贷款减免税判断" style="whiteSpace=wrap;html=1;verticalAlign=top;fontColor=#4277BB;labelBackgroundColor=default;shadow=0;dashed=0;spacingTop=3;" vertex="1" parent="1">
           <mxGeometry x="420" y="525" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hsB7S5Gprt8upeV15atY-13" value="网贷科目汇总价税分离" style="whiteSpace=wrap;html=1;verticalAlign=top;fontColor=#4277BB;labelBackgroundColor=default;shadow=0;dashed=0;spacingTop=3;" vertex="1" parent="1">
+        <mxCell id="hsB7S5Gprt8upeV15atY-13" value="网贷、贷记卡科目汇总价税分离" style="whiteSpace=wrap;html=1;verticalAlign=top;fontColor=#4277BB;labelBackgroundColor=default;shadow=0;dashed=0;spacingTop=3;" vertex="1" parent="1">
           <mxGeometry x="220" y="415" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hsB7S5Gprt8upeV15atY-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hsB7S5Gprt8upeV15atY-15" target="hsB7S5Gprt8upeV15atY-19">
