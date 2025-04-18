@@ -2721,6 +2721,9 @@
         <mxCell id="hsB7S5Gprt8upeV15atY-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hsB7S5Gprt8upeV15atY-1" target="hsB7S5Gprt8upeV15atY-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="cYmm-m0VFp7m1TINjImP-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hsB7S5Gprt8upeV15atY-1" target="hsB7S5Gprt8upeV15atY-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hsB7S5Gprt8upeV15atY-1" value="核心" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/data/data_services.svg;" vertex="1" parent="1">
           <mxGeometry x="110" y="400" width="60" height="60" as="geometry" />
         </mxCell>
@@ -2757,6 +2760,9 @@
         <mxCell id="hsB7S5Gprt8upeV15atY-10" value="自营贷款减免税判断" style="whiteSpace=wrap;html=1;verticalAlign=top;fontColor=#4277BB;labelBackgroundColor=default;shadow=0;dashed=0;spacingTop=3;" vertex="1" parent="1">
           <mxGeometry x="420" y="525" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="cYmm-m0VFp7m1TINjImP-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hsB7S5Gprt8upeV15atY-13" target="cYmm-m0VFp7m1TINjImP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hsB7S5Gprt8upeV15atY-13" value="网贷、贷记卡科目汇总价税分离" style="whiteSpace=wrap;html=1;verticalAlign=top;fontColor=#4277BB;labelBackgroundColor=default;shadow=0;dashed=0;spacingTop=3;" vertex="1" parent="1">
           <mxGeometry x="220" y="415" width="220" height="30" as="geometry" />
         </mxCell>
@@ -2780,6 +2786,9 @@
         </mxCell>
         <mxCell id="hsB7S5Gprt8upeV15atY-23" value="价税分离&lt;div&gt;开票&lt;/div&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;fontColor=#4277BB;labelBackgroundColor=default;shadow=0;dashed=0;spacingTop=3;" vertex="1" parent="1">
           <mxGeometry x="570" y="332.5" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="cYmm-m0VFp7m1TINjImP-2" value="汇总价税分离无法开票" style="whiteSpace=wrap;html=1;verticalAlign=top;fontColor=#4277BB;labelBackgroundColor=default;shadow=0;dashed=0;spacingTop=3;" vertex="1" parent="1">
+          <mxGeometry x="570" y="410" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
