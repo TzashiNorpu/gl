@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="28.2.9" pages="2">
   <diagram name="NG_deploy" id="P6GSgUbCL9xL_P5fsU_E">
-    <mxGraphModel dx="4283" dy="3623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6703" dy="3353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -93,19 +93,19 @@
           <mxGeometry width="153.10344827586204" height="315" as="geometry" />
         </mxCell>
         <mxCell id="W1gdJWNe3WaPWgAU_jGp-4" value="拓东" style="whiteSpace=wrap;html=1;labelBackgroundColor=light-dark(#FF0000,#EDEDED);align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;fontSize=30;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-300" y="-1180" width="970" height="975" as="geometry" />
+          <mxGeometry x="-300" y="-1120" width="970" height="915" as="geometry" />
         </mxCell>
         <mxCell id="W1gdJWNe3WaPWgAU_jGp-12" value="&lt;span style=&quot;font-size: 30px; text-wrap-mode: nowrap;&quot;&gt;A-NGAM【会计计量应用】&lt;/span&gt;&lt;div style=&quot;font-size: 30px; text-wrap-mode: nowrap;&quot;&gt;A-NGAE【会计引擎应用】&lt;/div&gt;&lt;div style=&quot;font-size: 30px; text-wrap-mode: nowrap;&quot;&gt;A-NGWS【作业服务应用】&lt;/div&gt;&lt;div style=&quot;font-size: 30px; text-wrap-mode: nowrap;&quot;&gt;8C*12G*1&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="199.77999999999997" y="-900" width="440" height="160" as="geometry" />
+          <mxGeometry x="193.99999999999997" y="-780" width="440" height="160" as="geometry" />
         </mxCell>
         <mxCell id="W1gdJWNe3WaPWgAU_jGp-13" value="&lt;div&gt;&lt;font style=&quot;text-wrap-mode: nowrap;&quot;&gt;A-NGFA【前端应用-Nginx】&lt;/font&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font&gt;A-NGRA【报表配置应用】&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font&gt;A-NGSA【报表查询应用】&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font&gt;A-NGWA【工作流应用】&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font&gt;A-NGWD【作业调度应用】&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font&gt;A-NGFP【基础平台应用】&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font&gt;A-NGFG【基础总账应用】&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font&gt;A-NGBS【业务服务应用】&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font&gt;A-NGES【外部服务应用】&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font&gt;8C*12G*1&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;spacing=0;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="-220" y="-1047.5" width="360" height="330" as="geometry" />
+          <mxGeometry x="-230" y="-930" width="360" height="330" as="geometry" />
         </mxCell>
         <mxCell id="W1gdJWNe3WaPWgAU_jGp-11" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.server_generic;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="350" y="-637.5" width="139.56521739130434" height="315" as="geometry" />
+          <mxGeometry x="360" y="-560" width="139.56521739130434" height="315" as="geometry" />
         </mxCell>
         <mxCell id="W1gdJWNe3WaPWgAU_jGp-16" value="&lt;div style=&quot;line-height: 80%;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;outlineConnect=0;align=left;shape=mxgraph.office.servers.server_generic;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="-153" y="-660" width="153.10344827586204" height="315" as="geometry" />
+          <mxGeometry x="-160" y="-560" width="153.10344827586204" height="315" as="geometry" />
         </mxCell>
         <mxCell id="W1gdJWNe3WaPWgAU_jGp-20" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;startArrow=classic;rounded=0;shape=flexArrow;width=30;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
