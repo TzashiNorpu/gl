@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="28.2.9" pages="2">
   <diagram name="NG_deploy" id="P6GSgUbCL9xL_P5fsU_E">
-    <mxGraphModel dx="15517" dy="7798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6703" dy="4522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7RD35DVTBnqit5shKbzj-42" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1560" y="-140" width="370" height="1290" as="geometry" />
+          <mxGeometry x="1640" y="-297.5" width="370" height="1290" as="geometry" />
         </mxCell>
         <mxCell id="7RD35DVTBnqit5shKbzj-41" value="基础设施" style="whiteSpace=wrap;html=1;fontSize=30;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="7RD35DVTBnqit5shKbzj-42" vertex="1">
           <mxGeometry width="370" height="1290" as="geometry" />
@@ -53,7 +53,7 @@
         <mxCell id="W1gdJWNe3WaPWgAU_jGp-2" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-300" y="17.5" width="1750" height="975" as="geometry" />
         </mxCell>
-        <mxCell id="7RD35DVTBnqit5shKbzj-31" value="c" style="whiteSpace=wrap;html=1;labelBackgroundColor=light-dark(#FF0000,#EDEDED);align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;fontSize=30;fontStyle=1" parent="W1gdJWNe3WaPWgAU_jGp-2" vertex="1">
+        <mxCell id="7RD35DVTBnqit5shKbzj-31" value="西园" style="whiteSpace=wrap;html=1;labelBackgroundColor=light-dark(#FF0000,#EDEDED);align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;fontSize=30;fontStyle=1" parent="W1gdJWNe3WaPWgAU_jGp-2" vertex="1">
           <mxGeometry width="1750" height="975" as="geometry" />
         </mxCell>
         <mxCell id="1X11UXaNsNiNVBr5dGBc-4" value="" style="group" parent="W1gdJWNe3WaPWgAU_jGp-2" vertex="1" connectable="0">
